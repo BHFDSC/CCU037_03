@@ -1,32 +1,20 @@
-# BHF Data Science Centre research project template
-
-This is a template repository used by the BHF Data Science Centre team when creating new repositories for single-nation CVD-COVID-UK/COVID-IMPACT projects.
-
-# Project name
+# Towards mitigating health inequity via machine learning: a nationwide cohort study to develop and validate ethnicity-specific models for prediction of cardiovascular disease risk in COVID-19 patients
 
 ## Project description
 
-Description will be added here.
+Emerging data-driven technologies in healthcare, such as risk prediction models, hold great promise but also pose challenges regarding potential bias and exacerbation of existing health inequalities, which have been observed across diseases such as cardiovascular disease (CVD) and COVID-19. This study addresses the impact of ethnicity in risk prediction modelling for cardiovascular events following SARS-CoV-2 infection and explores the potential of ethnicity-specific models to mitigate disparities.
 
 ## How to cite this work
 > Citation details to follow
 
 ## Contents
 
-* [View the analysis code used in NHS England's SDE for England](https://github.com/BHFDSC/CCU0XX_XX/tree/main/code)
-* [View the phenotyping algorithms and codelists used in NHS England's SDE for England](https://github.com/BHFDSC/CCU0XX_XX/tree/main/phenotypes)
-
-* [View the analysis code used in the Scottish National Safe Haven](https://github.com/BHFDSC/CCU0XX_XX/tree/main/code)
-* [View the phenotyping algorithms and codelists used in the Scottish National Safe Haven](https://github.com/BHFDSC/CCU0XX_XX/tree/main/phenotypes)
-
-* [View the analysis code used in the SAIL Databank](https://github.com/BHFDSC/CCU0XX_XX/tree/main/code)
-* [View the phenotyping algorithms and codelists used in the SAIL Databank](https://github.com/BHFDSC/CCU0XX_XX/tree/main/phenotypes)
+* [View the analysis code used in NHS England's SDE for England](https://github.com/BHFDSC/CCU037_03/tree/main/code)
+* [View the phenotyping algorithms and codelists used in NHS England's SDE for England](https://github.com/BHFDSC/CCU037_03/tree/main/phenotypes)
 
 ## Project approval
 
-This project has been approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (project: CCUXXX_XX).
-
-This is a sub-project of [project CCU0XX](https://github.com/BHFDSC/CCU0XX) approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (sub-project: CCU0XX_XX).
+This is a sub-project of [project CCU037](https://github.com/BHFDSC/CCU037) approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (sub-project: CCU037_03).
 
 ## License
 
