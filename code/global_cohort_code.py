@@ -1,6 +1,6 @@
 # Databricks notebook source
 # MAGIC %md
-# MAGIC #1. Import libraries, run starter commands
+# MAGIC #1. Import libraries, run starter commands, carry out for global cohort and each ethnicity group
 
 # COMMAND ----------
 
